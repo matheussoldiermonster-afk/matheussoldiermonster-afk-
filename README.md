@@ -239,9 +239,17 @@ Busco entender **por que o problema existe**, construir uma solução eficiente 
 
 ---
 
-## `07 // SYSTEM_CAPABILITIES`
+## `07 // CURRENTLY`
 
-┌──────────────────────────────────────────────────────┐ │ SYSTEM_CAPABILITIES │ ├──────────────────────────────────────────────────────┤ │ │ │ ✓ Full Stack Development │ │ ✓ REST API Development │ │ ✓ Database Modeling │ │ ✓ Authentication & Authorization │ │ ✓ Business Management Systems │ │ ✓ Process Automation │ │ ✓ IT Infrastructure │ │ ✓ Network & Technical Support │ │ ✓ Computer Maintenance │ │ │ └──────────────────────────────────────────────────────┘
+```text
+[+] Developing web applications
+[+] Building full-stack projects
+[+] Creating automation workflows
+[+] Improving backend development
+[+] Studying software architecture
+[+] Exploring AI & cybersecurity
+[+] Building portfolio projects
+```
 
 ---
 
