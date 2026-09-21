@@ -1,256 +1,309 @@
-# `MATT_SYSTEM // v2.0`
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="./matt_system_terminal_v2.svg" width="100%">
+</p>
+
+---
+
+# `MATT_SYSTEM`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  MATT_SYSTEM // DEVELOPER PROFILE                           ║
-║  STATUS: ONLINE                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                    MATT_SYSTEM v2.0                          │
+│                                                              │
+│   IT  •  SOFTWARE  •  AUTOMATION  •  PROBLEM SOLVING        │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-## 👨‍💻 Matheus Rodrigues Borges
+## `01 // MATT_IDENTITY`
 
-**T.I. Professional | Full Stack Developer in Progress**
+```javascript
+const matt = {
+  role: "IT Professional | Developer | Automation",
 
-Profissional de T.I. com experiência em suporte, infraestrutura, redes e automação de processos, atualmente aprofundando conhecimentos em **desenvolvimento de software e Engenharia de Software**.
+  focus: [
+    "Software Development",
+    "Backend",
+    "Automation",
+    "System Integration"
+  ],
 
-Gosto de transformar problemas reais em soluções práticas através de **sistemas, automações e aplicações web**.
+  stack: [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Java",
+    "SQL"
+  ],
 
-```text
-FOCUS
-├── Software Development
-├── Full Stack Applications
-├── Business Systems
-├── Process Automation
-└── Database & APIs
+  tools: [
+    "n8n",
+    "Git",
+    "GitHub",
+    "Prisma",
+    "PostgreSQL",
+    "REST APIs"
+  ],
+
+  mindset: "Understand. Build. Automate. Improve."
+};
 ```
 
 ---
 
-## 🚀 Active Projects
+## `02 // ABOUT_ME`
 
-### 🚗 FleetWise
+Sou profissional de **Tecnologia da Informação**, com experiência em suporte técnico, sistemas, infraestrutura e automação de processos.
+
+Minha trajetória começou com **suporte e resolução de problemas**, evoluindo para desenvolvimento de sistemas, APIs, bancos de dados e automações.
+
+Atualmente foco em unir **T.I + Desenvolvimento + Automação** para criar soluções práticas, reduzir tarefas repetitivas e transformar problemas reais em sistemas eficientes.
+
+```text
+IT SUPPORT
+     ↓
+PROBLEM SOLVING
+     ↓
+AUTOMATION
+     ↓
+SOFTWARE DEVELOPMENT
+     ↓
+REAL-WORLD SOLUTIONS
+```
+
+---
+
+## `03 // TECH_STACK`
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=fff)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=fff)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=fff)
+
+### Automation & Tools
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=fff)
+
+---
+
+## `04 // FEATURED_PROJECTS`
+
+### 🚛 FleetWise
 
 **Full Stack Fleet Management System**
 
-Sistema desenvolvido para gerenciamento e controle de operações relacionadas a frotas e abastecimentos.
+Sistema desenvolvido para centralizar e gerenciar informações de veículos, abastecimentos, viagens e usuários.
 
-**Stack:**
+```text
+PROJECT TYPE : Full Stack Application
+STATUS       : ACTIVE
+FOCUS        : Backend • APIs • Database
+```
 
-`React` `JavaScript` `Node.js` `Express` `Prisma` `PostgreSQL` `JWT`
+**Principais funcionalidades**
 
-**Principais recursos:**
+* 🔐 Autenticação de usuários
+* 🔌 API REST
+* 🗄️ PostgreSQL
+* 🔄 CRUD completo
+* 🚛 Gestão de veículos
+* ⛽ Controle de abastecimentos
+* 🛣️ Controle de viagens
+* 📊 Dashboard
+* 🔗 Integração Frontend + Backend
 
-* Gestão de veículos
-* Controle de abastecimentos
-* Registro de viagens
-* Controle de custos
-* Autenticação de usuários
-* API REST
-* Dashboard
-* Banco de dados relacional
+**Stack**
 
-🔗 **[Repository](https://github.com/matheussoldiermonster-afk/FleetWise)**
+`React` `Node.js` `Express` `Prisma` `PostgreSQL` `JWT`
 
----
+```text
+React
+  ↓
+REST API
+  ↓
+Node.js + Express
+  ↓
+Prisma
+  ↓
+PostgreSQL
+```
 
-### 🏢 Zevo Tech
-
-**Business Management System — In Development**
-
-Sistema interno desenvolvido para centralizar operações de uma empresa de segurança e monitoramento.
-
-O projeto tem como objetivo integrar diferentes áreas da operação em uma única aplicação.
-
-**Em desenvolvimento:**
-
-* Dashboard
-* Clientes
-* Empresas
-* Equipamentos
-* Contratos
-* Pagamentos
-* Ordens de Serviço
-* Agenda
-* Relatórios
-
-**Stack atual:**
-
-`React` `Vite` `Node.js` `Express` `PostgreSQL` `Prisma`
-
-> Projeto em desenvolvimento e utilizado como laboratório prático para aprofundamento em desenvolvimento Full Stack e Engenharia de Software.
+**Repository:**
+[→ FleetWise](https://github.com/matheussoldiermonster-afk/FleetWise)
 
 ---
 
 ### ✈️ TravelWay
 
-**Tourism Landing Page**
+**Modern Travel Agency Web Application**
 
-Aplicação web desenvolvida para apresentação de destinos e pacotes turísticos.
-
-**Stack:**
-
-`React` `Vite` `JavaScript` `CSS`
-
-**Principais recursos:**
-
-* Interface responsiva
-* Navegação entre páginas
-* Apresentação de destinos
-* Pacotes turísticos
-* Formulário de orçamento
-
-🔗 **[Repository](https://github.com/matheussoldiermonster-afk/Travel)**
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools & Automation
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-
----
-
-## ⚙️ System Capabilities
+Plataforma web desenvolvida para uma agência de viagens, com foco em experiência do usuário, apresentação de destinos e organização de pacotes turísticos.
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│ SYSTEM_CAPABILITIES                                  │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│ ✓ Full Stack Development                             │
-│ ✓ REST API Development                               │
-│ ✓ Database Modeling                                  │
-│ ✓ Authentication & Authorization                     │
-│ ✓ Business Management Systems                        │
-│ ✓ Process Automation                                 │
-│ ✓ IT Infrastructure                                  │
-│ ✓ Network & Technical Support                        │
-│ ✓ Computer Maintenance                               │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+PROJECT TYPE : Web Application
+STATUS       : COMPLETED
+FOCUS        : Frontend • UI/UX
 ```
 
+**Principais funcionalidades**
+
+* 🌎 Apresentação de destinos
+* ✈️ Pacotes de viagem
+* 📱 Interface responsiva
+* 🧩 Componentização com React
+* 🧭 Navegação com React Router
+* 🎨 Interface moderna
+* 📋 Estrutura preparada para expansão
+
+**Stack**
+
+`React` `Vite` `JavaScript` `CSS` `React Router`
+
+**Repository:**
+[→ TravelWay](https://github.com/matheussoldiermonster-afk/Travel)
+
 ---
 
-## 🧠 Currently Learning
+## `05 // AUTOMATION`
+
+Uma das áreas que mais me interessa é transformar processos manuais em **fluxos automatizados e integrados**.
+
+Experiência e estudos envolvendo:
 
 ```text
-[■■■■■■■■■■■■■■■■░░░░] JavaScript / TypeScript
-[■■■■■■■■■■■■■■░░░░░] React
-[■■■■■■■■■■■■■■░░░░░] Node.js / APIs
-[■■■■■■■■■■■■░░░░░░░] PostgreSQL / SQL
-[■■■■■■■■■■■■░░░░░░░] Software Architecture
-[■■■■■■■■■■░░░░░░░░░] Docker
-[■■■■■■■■░░░░░░░░░░░] Automated Testing
+n8n
+ │
+ ├── APIs
+ ├── Webhooks
+ ├── Google Sheets
+ ├── Sistemas internos
+ ├── Integrações
+ └── Process Automation
 ```
 
-> As barras representam áreas de estudo e evolução, não porcentagens de domínio.
-
----
-
-## 🎓 Learning Protocol
-
-### Engenharia de Software
-
-Aprofundando conhecimentos em:
-
-* Desenvolvimento de software
-* Estrutura de sistemas
-* Banco de dados
-* Arquitetura de aplicações
-* APIs
-* Boas práticas de programação
-
-### Full Stack Development
-
-Atualmente focado em:
-
-`JavaScript → TypeScript → React → Node.js → PostgreSQL`
-
-### Future Focus
-
-`Docker` `Testing` `CI/CD` `Software Architecture` `Python` `Cybersecurity`
-
----
-
-## 📊 Development Philosophy
+### Objetivo
 
 ```text
-PROBLEM
-   ↓
-UNDERSTAND
-   ↓
-DESIGN
-   ↓
-BUILD
-   ↓
-TEST
-   ↓
+MANUAL PROCESS
+      ↓
+IDENTIFY REPETITION
+      ↓
+DESIGN WORKFLOW
+      ↓
+AUTOMATE
+      ↓
+MONITOR
+      ↓
 IMPROVE
 ```
 
-> **Build solutions. Automate processes. Keep evolving.**
-
-Acredito que desenvolvimento não é apenas escrever código.
-
-É entender o problema, construir uma solução simples e confiável e continuar melhorando o sistema conforme novas necessidades aparecem.
-
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheussoldiermonster-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussoldiermonster-afk&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔗 Connect
-
-<p align="left">
-
-<a href="https://github.com/matheussoldiermonster-afk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
+## `06 // DEVELOPMENT_MINDSET`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  MATT_SYSTEM // v2.0                                       ║
-║                                                              ║
-║  "Build solutions. Automate processes. Keep evolving."      ║
-║                                                              ║
-║  STATUS: CONTINUOUSLY LEARNING                              ║
-╚══════════════════════════════════════════════════════════════╝
+> how I build
+
+01  Understand the problem
+02  Design the solution
+03  Build the system
+04  Test the result
+05  Automate what can be automated
+06  Improve continuously
 ```
+
+Não busco apenas fazer algo funcionar.
+
+Busco entender **por que o problema existe**, construir uma solução eficiente e encontrar formas de tornar o processo cada vez melhor.
+
+---
+
+## `07 // SYSTEM_CAPABILITIES`
+
+┌──────────────────────────────────────────────────────┐ │ SYSTEM_CAPABILITIES │ ├──────────────────────────────────────────────────────┤ │ │ │ ✓ Full Stack Development │ │ ✓ REST API Development │ │ ✓ Database Modeling │ │ ✓ Authentication & Authorization │ │ ✓ Business Management Systems │ │ ✓ Process Automation │ │ ✓ IT Infrastructure │ │ ✓ Network & Technical Support │ │ ✓ Computer Maintenance │ │ │ └──────────────────────────────────────────────────────┘
+
+---
+
+## `08 // GITHUB_STATS`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=matheussoldiermonster-afk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussoldiermonster-afk&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=matheussoldiermonster-afk&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## `09 // CONTRIBUTIONS`
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=matheussoldiermonster-afk&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## `10 // CONNECT`
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  MATT_SYSTEM                                │
+│                                             │
+│  IT • SOFTWARE • AUTOMATION                 │
+│                                             │
+│  Build solutions.                           │
+│  Automate processes.                        │
+│  Keep evolving.                             │
+│                                             │
+│  STATUS : ONLINE                            │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+### Let's connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/matheus-borges-a27b26225/)
+* 📸 [Instagram](https://www.instagram.com/borgss_matt/)
+
+---
+
+> `SYSTEM STATUS: ONLINE`
+>
+> `READY FOR THE NEXT CHALLENGE.`
+
