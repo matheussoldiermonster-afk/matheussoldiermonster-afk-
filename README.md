@@ -107,7 +107,43 @@ REAL-WORLD SOLUTIONS
 
 ---
 
-## `04 // FEATURED_PROJECTS`
+## `04 // SYSTEM_CAPABILITIES`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    SYSTEM CAPABILITIES                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  SOFTWARE DEVELOPMENT                                        │
+│  ├── Web Applications                                        │
+│  ├── REST APIs                                               │
+│  ├── Backend Systems                                         │
+│  └── Frontend Interfaces                                     │
+│                                                              │
+│  DATABASE                                                    │
+│  ├── PostgreSQL                                              │
+│  ├── SQL                                                     │
+│  ├── Prisma                                                  │
+│  └── Data Modeling                                           │
+│                                                              │
+│  AUTOMATION                                                  │
+│  ├── n8n                                                     │
+│  ├── Webhooks                                                │
+│  ├── API Integrations                                        │
+│  └── Process Automation                                      │
+│                                                              │
+│  INFRASTRUCTURE                                               │
+│  ├── IT Support                                              │
+│  ├── Networking                                               │
+│  ├── System Maintenance                                      │
+│  └── Troubleshooting                                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `05 // FEATURED_PROJECTS`
 
 ### 🚛 FleetWise
 
@@ -150,6 +186,7 @@ PostgreSQL
 ```
 
 **Repository:**
+
 [→ FleetWise](https://github.com/matheussoldiermonster-afk/FleetWise)
 
 ---
@@ -181,11 +218,12 @@ FOCUS        : Frontend • UI/UX
 `React` `Vite` `JavaScript` `CSS` `React Router`
 
 **Repository:**
+
 [→ TravelWay](https://github.com/matheussoldiermonster-afk/Travel)
 
 ---
 
-## `05 // AUTOMATION`
+## `06 // AUTOMATION`
 
 Uma das áreas que mais me interessa é transformar processos manuais em **fluxos automatizados e integrados**.
 
@@ -220,7 +258,7 @@ IMPROVE
 
 ---
 
-## `06 // DEVELOPMENT_MINDSET`
+## `07 // DEVELOPMENT_MINDSET`
 
 ```text
 > how I build
@@ -239,25 +277,51 @@ Busco entender **por que o problema existe**, construir uma solução eficiente 
 
 ---
 
-## `07 // CURRENTLY`
+## `08 // CURRENTLY_LEARNING`
 
 ```text
-[+] Developing web applications
-[+] Building full-stack projects
-[+] Creating automation workflows
-[+] Improving backend development
-[+] Studying software architecture
-[+] Exploring AI & cybersecurity
-[+] Building portfolio projects
+[+] JavaScript & TypeScript
+[+] React & Modern Frontend
+[+] Node.js & REST APIs
+[+] PostgreSQL & SQL
+[+] Software Architecture
+[+] Docker
+[+] Automated Testing
+[+] AI & Cybersecurity
+```
+
+### Learning Focus
+
+```text
+JAVASCRIPT / TYPESCRIPT
+████████████████░░░░
+
+REACT
+███████████████░░░░░
+
+NODE.JS / APIs
+██████████████░░░░░░
+
+POSTGRESQL / SQL
+█████████████░░░░░░░
+
+SOFTWARE ARCHITECTURE
+██████████░░░░░░░░░░
+
+DOCKER
+████████░░░░░░░░░░░░
+
+AUTOMATED TESTING
+██████░░░░░░░░░░░░░░
 ```
 
 ---
 
-## `08 // GITHUB_STATS`
+## `09 // GITHUB_STATS`
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=matheussoldiermonster-afk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=matheussoldiermonster-afk&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
   />
   <img
@@ -268,50 +332,13 @@ Busco entender **por que o problema existe**, construir uma solução eficiente 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=matheussoldiermonster-afk&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=matheussoldiermonster-afk&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
 
 ---
 
-## `09 // CONTRIBUTIONS`
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=matheussoldiermonster-afk&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
-## `10 // CONNECT`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  MATT_SYSTEM                                │
-│                                             │
-│  IT • SOFTWARE • AUTOMATION                 │
-│                                             │
-│  Build solutions.                           │
-│  Automate processes.                        │
-│  Keep evolving.                             │
-│                                             │
-│  STATUS : ONLINE                            │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-### Let's connect
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/matheus-borges-a27b26225/)
-* 📸 [Instagram](https://www.instagram.com/borgss_matt/)
-
----
-
 > `SYSTEM STATUS: ONLINE`
 >
 > `READY FOR THE NEXT CHALLENGE.`
-
